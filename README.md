@@ -188,6 +188,9 @@ For authorized security testing only. Unauthorized access is illegal.
 
 Website: [lcpnet.fr](https://lcpnet.fr)
 
+Website: [d4rp.fr]
+(https://d4rp.fr)
+
 Discord: [discord.gg/lcp](https://discord.gg/lcp)
 
 ---
